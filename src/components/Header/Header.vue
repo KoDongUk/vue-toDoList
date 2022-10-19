@@ -1,7 +1,13 @@
-<template> </template>
+<template>
+  <div>
+    Header
+  </div>
+</template>
 
 <script>
-export default {};
+export default {
+  name: "Header"
+};
 </script>
 
 <style></style>
