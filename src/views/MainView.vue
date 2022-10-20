@@ -1,9 +1,9 @@
 <template>
   <div>
     <Header />
-    <Footer />
     <ToDoInput />
     <ToDoList />
+    <Footer />
   </div>
 </template>
 
